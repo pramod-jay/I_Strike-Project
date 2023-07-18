@@ -1,5 +1,5 @@
 # I_Strike-Project
-this code is made for UK PHD undegradute student name Manisha.
-This project have user rigitration part, User login part and commenting part.
-Programming languages that I used here JS, PHP and as structured language HTML stylish by CSS.
-Databse was developed by using MySQL
+this code is made for Manisha, a UK MSc. student.
+This project consists of user registration, user login, and commenting part.
+used are JS, PHP, and as structured language HTML and styled using CSS.
+the database was developed by using MySQL
